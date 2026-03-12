@@ -1,0 +1,5 @@
+{
+  "name": "GeoXat",
+  "description": "Un xat amb una àrea de dibuix per guiar l'alumne durant la resolució de problemes geomètrics",
+  "requestFramePermissions": []
+}
