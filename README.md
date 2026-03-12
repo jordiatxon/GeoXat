@@ -2,19 +2,14 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# GeoXat: Tutor Socràtic amb Mistral (Hugging Face)
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7bc7cfad-4cd1-48e1-b107-8bd6dd7546ad
+Aquesta és una versió modificada de l'app original de Google AI Studio, ara connectada a un model de codi obert a través de Hugging Face per a una major flexibilitat i control del tutor socràtric.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js (v18 o superior recomanat)
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Install dependencies:**
+   ```bash
+   npm install
